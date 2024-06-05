@@ -1,0 +1,16 @@
+.welcome-admin{
+    height: auto;
+    width: 25%;
+    margin-top:3% !important;
+    background-color: aquamarine;
+
+}
+.admin-header{
+    width: 100%;
+    height: auto;
+    background-color: #008dd2;
+}
+.admin-sidebar{
+    text-decoration: none;
+    text-transform: none;
+}
